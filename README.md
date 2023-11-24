@@ -1,4 +1,4 @@
-# animation_2
+# Grocery app
 
 A new Flutter project.
 
